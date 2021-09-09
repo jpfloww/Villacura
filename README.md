@@ -3,8 +3,8 @@
 reglas armónicas y teoría músical para sonar _bien_.
 
 <img 
-height="100" 
-width="100" 
+height="140" 
+width="115" 
 src="https://raw.githubusercontent.com/jpfloww/Villacura/main/robot.PNG" 
 alt="Imagen minimalista de un robot tocando un sintetizador en blanco y negro"
 align="left"
